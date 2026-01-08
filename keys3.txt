@@ -1,0 +1,11 @@
+a = X
+i = 1
+o = X
+k = K
+e = X
+p = P
+J = J
+z = Z
+u = U
+ğ = ğ
+q = ❤
